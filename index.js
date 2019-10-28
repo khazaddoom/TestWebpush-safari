@@ -25,4 +25,15 @@
 
 })();
 
+// if (!window.Notification || !Notification.requestPermission) {
+//     console.log('This browserdoes not support desktop notification');
+//     return;
+// } else {
+//     window.Notification.requestPermission(function(p) {
+//         console.log('browser notification status = ' + p);
+//         return;
+//     });
+// }
+
+
 
